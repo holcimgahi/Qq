@@ -1,0 +1,120 @@
+#bgpic{
+  margin: 0;
+  border-radius: 10px
+}
+#bg{
+  height: 200px;
+  width: 100%;
+  border-radius: 10px
+}
+#nawong{
+  height: 130px;
+  width: 130px;
+  border-radius: 50%;
+  border: 5px solid white;
+  margin-top: -100px;
+  margin-left: 5px
+}
+
+body{
+  background-color: #C9CCD1
+}
+#ngalan{
+  margin: 10px
+}
+#maindiv{
+  background-color: white;
+  height: auto;
+  border-radius: 10px;
+  margin: 0px;
+  padding-bottom: 20px
+}
+
+#bio{
+  margin-left: 10px;
+  margin-top: 20px
+}
+#more{
+  margin-top: 5px;
+  padding: 20px;
+  background-color: white;
+  height:auto;
+  border-radius: 10px 10px 0px 0px;
+  margin-bottom: -16px
+}
+.butt:not(:first-child){
+  margin-left:15px;
+}
+.butt{
+  height:30px;
+  width:50px;
+  border: none;
+  font-weight: bold;
+  color: #65686D;
+  background-color: transparent;
+  border-radius: 10px
+}
+.butt:active{
+  background-color:#EBF5FF;
+  color:#0065D1;
+}
+hr{
+  margin-top:10px;
+}
+#two{
+  margin-left:10px;
+  margin-right: 10px;
+  margin-bottom:;
+  
+}
+.two{
+  width:47%;
+  height: 35px;
+  border-radius:5px;
+  border: none;
+  background-color: #0865FE;
+  color: white;
+}
+#message{
+  margin-left: 10px;
+  background-color: #E2E5EA
+}
+#posts{
+  height: auto;
+  background-color: white;
+  margin-top: 1px;
+}
+#details{
+  margin-top: 10px;
+  margin-left: 10px
+}
+#inf{
+  margin-left: 20px
+}
+i{
+  color:#84878C;
+}
+.tulo{
+  margin-left:10px
+}
+.boldinfo{
+  font-weight: bold;
+  margin-left: 5px
+}
+#plus{
+  color: white
+}
+.twos{
+  color: white;
+  margin-left: 5px;
+  font-weight: bold
+}
+.twod{
+  color: black;
+  margin-left: 5px;
+  font-weight: bold
+}
+#message{
+  color: black;
+}
+
